@@ -152,9 +152,3 @@ end
 pause(2); % Final pause
 
 %%
-
-ReLU
-LeakyReLU
-InstanceNormalization
-Atrous/Dilated Convolutions
-Transposed Convolutions
